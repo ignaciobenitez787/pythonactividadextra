@@ -1,0 +1,1 @@
+Programa de gestión de inventario hecho para la practica 1 de Seminario de Lenguajes
