@@ -6,7 +6,7 @@ while leave == False:
         for option in options:
                 print(option)
         user_input = input("Seleccione una opción \n")
-        if user_input.isdigit:
+        if user_input.isdigit():
                 user_input=int(user_input)
         else:
             print("Respuesta no valida")
